@@ -1,0 +1,5 @@
+{
+  "name": "QuestLog Dashboard",
+  "description": "An architectural minimalist dashboard for task management and scheduling with Framer Motion animations.",
+  "requestFramePermissions": []
+}
